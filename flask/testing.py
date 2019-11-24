@@ -1,0 +1,1 @@
+from fractal_analysis import FractalReport

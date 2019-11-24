@@ -1,0 +1,16 @@
+<h1>Hello Results Page</h1>
+<a href="{{ url_for('index') }}">Back</a>
+
+<h1 align='center'>Uploaded Fractal Image</h1>
+<ul>
+    {% for file_url in file_urls %}
+        <li><img src="{{ file_url }}" style="height: 150px"></li>
+    {% endfor %}
+</ul>
+
+<h2 align='center'>Visualization of Results:</h2>
+<ul>
+    {% for report_url in report_urls %}
+        <li><img src="static/{{ report_url }}" style="height: 400px"></li>
+    {% endfor %}
+</ul>
