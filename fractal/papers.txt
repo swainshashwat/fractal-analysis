@@ -1,0 +1,11 @@
+work used:
+
+[1] https://sci-hub.tw/10.1016/j.sigpro.2009.12.010
+A robust algorithm for the fractal dimension of images and its
+applications to the classification of natural images and ultrasonic
+liver images
+Wen-Li Lee a,, Kai-Sheng Hsieh b
+
+[2] 
+
+referenced:
